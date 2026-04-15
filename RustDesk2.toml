@@ -1,0 +1,13 @@
+rendezvous_server = '172.16.1.8:21116'
+nat_type = 1
+serial = 0
+unlock_pin = ''
+trusted_devices = ''
+
+[options]
+key = '7Nga4dupN16ElWYE0u6HZnsbUG1uhgY51HwurBPRyEU='
+api-server = 'http://172.16.1.8:21114'
+local-ip-addr = '10.0.0.153'
+av1-test = 'Y'
+relay-server = '172.16.1.8:21117'
+custom-rendezvous-server = '172.16.1.8'
